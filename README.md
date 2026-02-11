@@ -1,16 +1,18 @@
-## Hi there 👋
+Ola!, eu sou o Matheus 👋
 
-<!--
-**Matheusmnttiii/Matheusmnttiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Web focado em Frontend  
+🚀 Buscando oportunidade como Dev Web Júnior  
 
-Here are some ideas to get you started:
+🛠️ Tecnologias
+HTML • CSS • JavaScript • TypeScript • Node.js  
+Git/GitHub • SQL • WordPress/Elementor (ajustes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌐 Portfólio
+https://matheusmnttiii.github.io/Portfolio/
+
+
+📫 Contato
+Email: chamorromatheus5@gmail.com  
+GitHub: https://github.com/Matheusmnttiiirted:
