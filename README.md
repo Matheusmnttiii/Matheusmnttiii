@@ -15,4 +15,4 @@ https://matheusmnttiii.github.io/Portfolio/
 
 📫 Contato
 Email: chamorromatheus5@gmail.com  
-GitHub: https://github.com/Matheusmnttiiirted:
+GitHub: https://github.com/Matheusmnttiii
